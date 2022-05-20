@@ -1,0 +1,12 @@
+[submodule "tinycbor"]
+	path = tinycbor
+	url = https://github.com/intel/tinycbor.git
+[submodule "micro-ecc"]
+	path = micro-ecc
+	url = https://github.com/kmackay/micro-ecc.git
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls.git
+[submodule "cose-lib"]
+	path = cose-lib
+	url = https://github.com/abuettner/cose-lib.git
