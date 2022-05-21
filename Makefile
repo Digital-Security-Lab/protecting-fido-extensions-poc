@@ -10,6 +10,7 @@ INCLUDE += -I./src
 
 SOURCE += micro-ecc/*.c
 SOURCE += cose-lib/src/*.c
+
 SOURCE += src/*.c
 
 
